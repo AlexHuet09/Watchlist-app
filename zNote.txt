@@ -1,0 +1,3 @@
+handleChange update state without being an object
+
+put an advance search that will display more input  for (title , year, genre etc)
